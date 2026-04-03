@@ -1,0 +1,4 @@
+git add .
+git commit -m "Initial commit: додано README.md та .gitignore"
+git remote add origin https://github.com/<username>/bse-lr1-<прізвище>.git
+git push -u origin main
